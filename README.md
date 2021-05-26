@@ -24,6 +24,7 @@ The project is meant to be done using React Typescript, other than that, you can
 
 ## Expectations 📋
 
+You have up to 5 days to complete this project, starting from the day you've received the link.
 Here's a few things we will be looking at:
 
 - Git usage.
